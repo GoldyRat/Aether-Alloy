@@ -1,0 +1,30 @@
+{
+  "backups": [
+    {
+      "worldName": "New World (1)",
+      "createTime": 1777422600108,
+      "backupLocation": "/Users/celestingrillot/Documents/curseforge/minecraft/Instances/tests/backups/2026-4-28_21-30-0.zip",
+      "size": 1728205,
+      "ratio": 0.12437741,
+      "sha1": "d02ee14b3a722ba644cd8636c29924ad596fff30",
+      "preview": "",
+      "snapshot": false,
+      "backupName": "automated",
+      "backupFormat": "ZIP",
+      "complete": true
+    },
+    {
+      "worldName": "New World (1)",
+      "createTime": 1777424400114,
+      "backupLocation": "/Users/celestingrillot/Documents/curseforge/minecraft/Instances/tests/backups/2026-4-28_22-0-0.zip",
+      "size": 2700486,
+      "ratio": 0.15762098,
+      "sha1": "ffdc2cedc5c074a7d900a8be52a4856f513d2255",
+      "preview": "",
+      "snapshot": false,
+      "backupName": "automated",
+      "backupFormat": "ZIP",
+      "complete": true
+    }
+  ]
+}

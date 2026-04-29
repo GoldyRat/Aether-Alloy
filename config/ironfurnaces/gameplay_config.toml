@@ -1,0 +1,4 @@
+# Don't change this! Version used to track needed updates.
+version = 0
+force_load_chunk_when_check_furnace_kind_for_rainbow_furnace = false
+stored_xp_level = 100

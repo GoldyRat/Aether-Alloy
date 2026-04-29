@@ -1,0 +1,26 @@
+[21:35:57] [INIT] KubeJS 2101.7.2-build.348; MC 2101 NeoForge
+[21:35:57] [INIT] Loaded plugins:
+[21:35:57] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
+[21:35:57] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSClientPlugin
+[21:35:57] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[21:35:57] [INIT] - com.falaut.kubejsnaturesaura.KubeJSNaturesAuraPlugin
+[21:35:57] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
+[21:35:57] [INIT] - com.bobvarioa.kubejsprojecte.kubejs.KubeJSProjectEPlugin
+[21:35:57] [INIT] - com.chen1335.immersiveEngineeringJs.kubejs.ImmersiveEngineeringJsPlugin
+[21:35:57] [INIT] - com.miiickey.kubejei.kubejs.plugin.KubeJEIPlugin
+[21:35:57] [INIT] - com.bobvarioa.kubejspowah.KubeJSPowahPlugin
+[21:35:57] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
+[21:35:57] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[21:35:57] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[21:35:57] [INIT] - com.almostreliable.kubeoritech.KubePlugin
+[21:35:57] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[21:35:57] [INIT] - dev.latvian.mods.kubejs.mekanism.MekanismKubeJSPlugin
+[21:35:57] [INIT] - com.rollylindenshnizzer.appliedkjs.AppliedKJSPlugin
+[21:35:57] [INIT] - com.glodblock.github.extendedae.xmod.kjs.KJSPlugin
+[21:35:57] [INIT] - aztech.modern_industrialization.compat.kubejs.MIKubeJSPlugin
+[21:35:57] [INIT] - com.almostreliable.kubeio.KubePlugin
+[21:35:57] [INIT] - com.klikli_dev.occultism_kubejs.KubeJSOccultismPlugin
+[21:35:57] [INFO] client_scripts:main.js#2: Hello, World! (Loaded client example script)
+[21:35:57] [INFO] Loaded script client_scripts:main.js in 0.008 s
+[21:35:57] [INFO] Loaded 1/1 KubeJS client scripts in 0.018 s with 0 errors and 0 warnings
+[21:36:01] [INFO] Client resource reload complete!

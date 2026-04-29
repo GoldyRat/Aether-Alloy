@@ -1,0 +1,18 @@
+{
+	version: 1
+	uuid: "3c7f49ee55ab4c01b1d7fb5ee0cf58b3"
+	name: "GoldenRatQG#3c7f49ee"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: {
+		3c7f49ee55ab4c01b1d7fb5ee0cf58b3: {
+			can_edit: 1b
+		}
+	}
+}

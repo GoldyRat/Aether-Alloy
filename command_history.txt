@@ -1,0 +1,47 @@
+/locate biome minecraft:plains
+/tp @s -49 77 72
+/locate biome minecraft:plains
+/locate biome minecraft:ocean
+/tp @s 814 83 -734
+/locate biome minecraft:plains
+/tp @s 1142 85 -697
+/time set day
+/gamerule doDaylightCycle false
+/locate biome minecraft:plains
+/tp @s -252 86 -27
+/locate structure minecraft:mansion
+/tp @s -7520 ~ -848
+/locate biome minecraft:plains
+/tp @s -6751 99 -1143
+/kjs hand
+/reload
+/time set day
+/gamerule doDaylightCycle false
+/kjs hand
+/reload
+/relo@
+/reload
+/kjs hand
+/reload
+/kjs hand
+/reload
+/time set day
+/gamerule doDaylightCycle false
+/kjs hand
+/advancement grant GoldenRatQG everything
+/reload
+/kjs hand
+/reload
+/kjs hand
+/reload
+/kjs hand
+/reload
+/weather clear
+/gamerule doWeatherCycle false
+/reload
+/ars-light on
+/time set day
+/gamerule doDaylightCycle false
+/gamerule doWeatherCycle false
+/kill @e
+/advancement grant GoldenRatQG everything

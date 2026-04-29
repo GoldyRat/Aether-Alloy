@@ -1,0 +1,16 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"modern_industrialization:coke_oven"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"modern_industrialization:robot_arm"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"extended_industrialization:processing_array"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"extended_industrialization:large_electric_macerator"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"modern_industrialization:coke_dust"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"modern_industrialization:bronze_macerator"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"immersiveengineering:coal_coke"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"modern_industrialization:coke"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"immersiveengineering:ingot_steel"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"modern_industrialization:bronze_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"modern_industrialization:bronze_rod"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:crimson_stairs"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kjsigrm:recipe_creator"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
