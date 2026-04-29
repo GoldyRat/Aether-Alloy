@@ -1,0 +1,41 @@
+[machine_remover]
+	#Ticks of cooldown after using a Machine Remover. Default: 0 (disabled)
+	#Default: 0
+	# Default: 0
+	# Range: > 0
+	cooldown_ticks = 0
+	#
+	#            Base Energy consumed when removing a Multiblock Machine.
+	#            Total consumption is determined by this + (multiblock_block_remove_cost * block count)
+	#            Default: 100
+	#            
+	#Default: 100
+	# Default: 100
+	# Range: 1 ~ 9223372036854775807
+	multiblock_base_remove_cost = 100
+	#
+	#            Base Energy consumed when removing a Multiblock Machine.
+	#            Total consumption is determined by multiblock_base_remove_cost + (this * block count)
+	#            Default: 25
+	#            
+	#Default: 25
+	# Default: 25
+	# Range: 1 ~ 9223372036854775807
+	multiblock_block_remove_cost = 25
+	#Energy consumed when removing a Single Block Machine. Default: 5
+	#Default: 5
+	# Default: 5
+	# Range: 1 ~ 9223372036854775807
+	single_block_remove_cost = 5
+	#Total capacity for Machine Removers. Default: 65536
+	#Default: 65536
+	# Default: 65536
+	# Range: 1 ~ 9223372036854775807
+	capacity = 65536
+
+[machine_diagnoser]
+	#Ticks of cooldown after using a Machine Diagnoser. Default: 0 (disabled)
+	#Default: 0
+	# Default: 0
+	# Range: > 0
+	cooldown_ticks = 0
