@@ -91,6 +91,9 @@
     "crafting_monitor": true,
     "part_name": true
   },
+  "enderio": {
+    "soul_bound": true
+  },
   "projecte": {
     "emc_provider": true
   },

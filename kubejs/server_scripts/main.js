@@ -41,4 +41,23 @@ ServerEvents.recipes(event => {
         'modern_industrialization:coke_oven',
         'immersiveengineering:cokebrick'
     )
+
+    event.custom({
+        "type": "xycraft_machines:extractor",
+        "adjacent": [
+            {
+                "predicate_type": "xycraft_core:fluid_tag_rule",
+                "tag": "minecraft:lava" // Utilise "block" au lieu de "tag" si tu cibles un bloc précis
+            }
+        ],
+        "output": {
+            "count": 1,
+            "id": 'kubejs:ignisite'
+        },
+        "target": {
+            "block": 'kubejs:ignisite_block',
+            "predicate_type": "xycraft_core:block_rule"
+        },
+        "ticks": 180
+    }).id('kubejs:flint_from_magma_extractor')
 })

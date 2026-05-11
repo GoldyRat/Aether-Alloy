@@ -1,0 +1,7 @@
+[multiblock_model]
+	#Disable model cache
+	#Default: false
+	disableModelCache = false
+	#Use minimal quads for rendering
+	#Default: false
+	minimalQuads = false
