@@ -139,21 +139,21 @@
 		entity_heads: true
 		entity_icon: {
 			"mekanismadditions:baby_creeper": true
-			"minecraft:sheep": true
-			"minecraft:zombie": true
-			"minecraft:skeleton": true
+			"minecraft:pig": true
 			"minecraft:enderman": true
-			"minecraft:wandering_trader": true
 			"minecraft:witch": true
-			"minecraft:slime": true
 			"minecraft:creeper": true
+			"minecraft:skeleton": true
+			"minecraft:wandering_trader": true
+			"minecraft:slime": true
+			"minecraft:zombie_villager": true
 			"minecraft:trader_llama": true
+			"minecraft:spider": true
+			"mekanismadditions:baby_skeleton": true
 			"occultism:wondering_trader": true
 			"minecraft:chicken": true
-			"minecraft:spider": true
-			"minecraft:pig": true
-			"minecraft:zombie_villager": true
-			"mekanismadditions:baby_skeleton": true
+			"minecraft:sheep": true
+			"minecraft:zombie": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
