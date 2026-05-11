@@ -138,6 +138,7 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
+<<<<<<< HEAD
 			"mekanismadditions:baby_creeper": true
 			"minecraft:pig": true
 			"minecraft:enderman": true
@@ -153,6 +154,23 @@
 			"occultism:wondering_trader": true
 			"minecraft:chicken": true
 			"minecraft:sheep": true
+=======
+			"minecraft:witch": true
+			"minecraft:spider": true
+			"mekanismadditions:baby_skeleton": true
+			"minecraft:sheep": true
+			"minecraft:enderman": true
+			"minecraft:skeleton": true
+			"minecraft:trader_llama": true
+			"minecraft:chicken": true
+			"minecraft:wandering_trader": true
+			"occultism:wondering_trader": true
+			"minecraft:creeper": true
+			"mekanismadditions:baby_creeper": true
+			"minecraft:slime": true
+			"minecraft:pig": true
+			"minecraft:zombie_villager": true
+>>>>>>> 3fd2d7d97d851b1fa98bb57d05833a75c59ae999
 			"minecraft:zombie": true
 		}
 		
